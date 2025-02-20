@@ -1,9 +1,18 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=200&section=header&text=Java%20Programmer&desc=Backend%20Developer&fontSize=30&animation=fadeIn)
+# 💡Seo Min Jong
+## 🎂Birthday : 1997.02.26🎉
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJay1123)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mj226)](https://solved.ac/{handle})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJay1123&layout=compact&theme=cobalt)
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
+## 🛠️skills
+![badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![badge](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mj226)](https://solved.ac/{handle})
 
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
+## ☎️communications✏️
+![badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
