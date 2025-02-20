@@ -1,16 +1,9 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 
-**MJay1123/MJay1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
 
-- 🔭 I’m currently working on beyond SW 14th camp.
-- 🌱 I’m currently learning SQL, Java.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
