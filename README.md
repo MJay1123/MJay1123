@@ -8,6 +8,21 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mj226)](https://solved.ac/{handle})<br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mj226)](https://solved.ac/{handle})
 
+<pre align="left" style="color: #6DB33F; font-weight: bold; background-color: transparent;">
+
+                                                         _-_  _-_                   \--\--\     /--/--/
+                                                      _-_   _-_  _-_                 \  \  \   /  /  /
+                                                   _-_   _-_   _-_ _-_                \  \   V   /  / 
+   .   ____          _            __ _ _           _-_  _-_   _-_   _-_                \  \     /  /
+  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \            _-_   _-_   _-_                    \  \   /  /
+ ( ( )\___ | '_ | '_| | '_ \/ _  | \ \ \ \             _-_     _-_                       \  \ /  /
+  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )              _-_ _-_                          \  V  /
+   '  |____| .__|_| |_|_| |_\__, | / / / /                |||                              \   /
+  =========|_|==============|___/=/_/_/_/                 |||                               \ /
+                                                          |||                                V
+           :: Spring Boot ::                              |||                           [[ Vue.js ]]
+
+</pre>
 
 > ## 🛠️skills
 ### Backend
@@ -15,20 +30,6 @@
 <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logoColor=white"/>
-
-<pre align="left" style="color: #6DB33F; font-weight: bold; background-color: transparent;">
-  .   ____          _            __ _ _                 _-_ _-_
- /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \            _-_   _-_ _-_
-( ( )\___ | '_ | '_| | '_ \/ _  | \ \ \ \        _-_   _-_   _-_ _-_
- \\/  ___)| |_)| | | | | || (_| |  ) ) ) )       _-_     _-_     _-_
-  '  |____| .__|_| |_|_| |_\__, | / / / /          _-_   _-_   _-_
- =========|_|==============|___/=/_/_/_/              _-_   _-_
-                                                         |||
-           :: Spring Boot ::                             |||
-                                                         |||
-</pre>
-
-
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
