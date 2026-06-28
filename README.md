@@ -52,7 +52,7 @@
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 > ## 🎓Verification
-##### 정보처리기사(필기)
+##### 정보처리기사
 ##### PCCP Java lv.3
 ##### SQL Developer
 ##### 컴퓨터활용능력 1급
